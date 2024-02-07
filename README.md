@@ -1,4 +1,4 @@
-# NoteCraft
+# NoteScribe
 
 Welcome to NoteScribe, a collaborative note-taking platform developed with PHP, SQL, and the sleek styling of Tailwind CSS. Users can seamlessly create, update, read, and delete notes upon login, while enjoying a dynamically tailored navigation bar. Inspired by Jeffrey Way's work, NoteCraft delivers an intuitive and visually pleasing note management experience.
 
